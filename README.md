@@ -1,4 +1,4 @@
-Given five files,
+Files,
 
 - `PlayerController.java`
 - `PlayerRepository.java`
@@ -23,7 +23,7 @@ Use only `team` as the table name in both query writing and in the model class w
 
 </MultiLineNote>
 
-### Completion Instructions
+### Instructions
 
 - `Player.java`: The `Player` class should contain the following attributes.
 
